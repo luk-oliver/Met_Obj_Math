@@ -1,0 +1,6 @@
+console.log(Math.floor(4.01))
+console.log(Math.floor(4.99))
+console.log(Math.floor(-5.01))
+console.log(Math.floor(-6.99))
+console.log(Math.floor(-8.99))
+console.log(Math.round(-7.01))

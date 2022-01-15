@@ -1,0 +1,5 @@
+console.log(Math.log(3))
+console.log(Math.log(1))
+console.log(Math.log(0))
+console.log(Math.log(Math.E))
+console.log(Math.log(Math.PI))

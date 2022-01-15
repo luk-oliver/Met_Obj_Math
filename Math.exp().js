@@ -1,0 +1,7 @@
+// eleva o numero de E (número de Euler)
+console.log(Math.exp(3))
+console.log(Math.exp(4))
+console.log(Math.exp(-1))
+console.log(Math.exp(0))
+console.log(Math.exp(1))
+console.log(Math.exp(-2))
